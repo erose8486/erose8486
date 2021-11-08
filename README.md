@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Esther Rosenberg
+- 👩🏻‍💻 I’m a Front-end Web Developer
+- ⚒️ I'm proficient in many programming languages including JS, CSS & Python
+- 🌱 I’m currently taking Josh Comeau's CSS-for-JS developers course
