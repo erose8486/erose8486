@@ -2,4 +2,5 @@
 - 👩🏻‍💻 I’m a Front-end Web Developer
 - ⚒️ I'm proficient in many programming languages including JS, CSS & Python
 - 🌱 I’m currently taking Josh Comeau's CSS-for-JS developers course
+- ✨ View more of my projects on [CodePen](https://codepen.io/redheadcoder)
 - 📬 You can contact me on [LinkedIn](https://www.linkedin.com/in/esty-rosenberg1234)
